@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season for Christian union to all Protestant dissenters from the Church of England, especially those of the ministry / by an hearty well-wisher to them, and the establish'd religion.</title>
+            <author>Hearty well-wisher to them and the establish'd religion.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67044</idno>
+            <idno type="STC">Wing W3546</idno>
+            <idno type="STC">ESTC R23485</idno>
+            <idno type="EEBO-CITATION">12765053</idno>
+            <idno type="OCLC">ocm 12765053</idno>
+            <idno type="VID">93567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season for Christian union to all Protestant dissenters from the Church of England, especially those of the ministry / by an hearty well-wisher to them, and the establish'd religion.</title>
+                  <author>Hearty well-wisher to them and the establish'd religion.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93567:1" rendition="simple:additions"/>
+            <p>A Word in Seaſon FOR <hi>Chriſtian Union</hi> To all Proteſtant Diſſenters from the Church of <hi>England,</hi> Eſpecially thoſe of the Miniſtry.</p>
+            <p>By an hearty Well-wiſher to them, and the Eſtabliſh'd Religion.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93567:2"/>
+            <pb n="3" facs="tcp:93567:2"/>
+            <head>A Word in ſeaſon for Chriſtian Union.</head>
+            <p>SOme will ſay, The times are ſuch, as we know not what to ſay or think, but I am ſure they are times wherein we all ought to think and do. To think what may con<g ref="char:EOLhyphen"/>duce to the pleaſing of our gracious Sovereign, and preſer<g ref="char:EOLhyphen"/>vation of our Religion, and to do it with all ſpeed. We have reaſon to believe from his Majeſty's frequent Pro<g ref="char:EOLhyphen"/>clamations and Proteſtations of his Reſolves to maintain and preſerve the Proteſtant Religion, as now eſtabliſhed, that all our lawfull endeavours to do the ſame, will be grateful and acceptable to his Majeſty, whatever ſome Malecontents may ſuggeſt to the contra<g ref="char:EOLhyphen"/>ry. Now our buſineſs is ſeriouſly to conſider what on our parts is meet to be done towards this great end. The Papiſts are our greateſt and moſt dreaded Adverſaries. Now if we may take our meaſures from the Enemies own Maxim, <hi>Divide and Reign, Union</hi> is the moſt likely way to our preſervation. And ſince Unity and Conformity to the eſtabliſhed Church is the proper means, and required of all by Law, why ſhould we hazard all, and reſolve to ſee the utmoſt of the Game, rather then yeild obedience to that Law? I fear, upon ſerious thinking, it will be found there is more of Deception, Intereſt and Will, than of Rea<g ref="char:EOLhyphen"/>ſon or Religion in our ſtanding out. For would our diſſenting Brethren of the Miniſtry plainly tell the People, how far they are from thoſe Oaths and Covenants, whereby they themſelves (as they ſay) ſtand bound; And that thoſe obligations required now of the Miniſters are not required of the People. Would they faithfully inform them, what they dare not deny to be true, that the Church of <hi>England</hi> is far from all Idolatry, and ſound in her Articles and Conſtitutions; that this is as Soul-ſaving Doctrine preached by her Miniſters, as by any others; that they may go to the Publick Aſſemblies, and join in the Publick Ordinances without ſinning in ſo doing; that they may be built up in their moſt holy Faith, and inſtructed to lead a religious life there, as well as elſewhere. In a word, if they would convince them, that Ceremonies cannot, ought not to fright us from the ſub<g ref="char:EOLhyphen"/>ſtance. <q>That in an eſtabliſhed Church, not infected with Hereſie
+<pb n="4" facs="tcp:93567:3"/>or Idolatry, nor defective in any part of Religion, it is duty to bear with much.</q> Which is the Judgment of a very late conſiderable <note n="*" place="margin">J. Corbet's King<g ref="char:EOLhyphen"/>dom of God among men. <hi>pag. 172.</hi>
+               </note> Author on their ſide. All which is true, and granted by many of the moſt ad<g ref="char:EOLhyphen"/>mired men of their Party, doubtleſs the Meetings would be thinner, and the Publick Churches ful<g ref="char:EOLhyphen"/>ler than they are. And as for you of the Clergy, if you would lay aſide Prejudice, Popularity, and Self-intereſt, and ſeriouſly conſider a few things, methinks you might bring both, them and your ſelves too, to ſome reaſonable Friendſhip with the Church of <hi>England.</hi> As,
+<list>
+                  <item>1. That many of you (my Brethren) were Epiſcopally Ordained, and have vowed Conformity to the Church of <hi>England.</hi> Which Or<g ref="char:EOLhyphen"/>ders and Obligations you have not openly retracted and declared void and null: and ſo are bound ſtill by them; they being in their own nature as obligatory, as any other which you have ſince taken. For the former Oaths and Obligations you took upon in obedience to lawful Authority, a conſiderable circumſtance, which in the latter you cannot pretend to: unleſs you will have that to be Law, which the longeſt Sword eſtabliſheth as ſuch; which I preſume you will not a<g ref="char:EOLhyphen"/>vouch, becauſe you may eaſily foreſee whither ſuch a Principle will lead you.</item>
+                  <item>2. That while you refuſe Conformity to the eſtabliſhed Church, you dwindle into a thouſand Factions; And are ſo confuſed, that multitudes of your followers, like the diſperſed <hi>Jews,</hi> know not what Tribe they are of; who is their Head, what their Government, or whither they tend. As ſuppoſe a Man ſhould take an account of the ſwarms in the private Meetings, and ask them what Judgment or Perſwaſion they are of? not one in an hundred can tell you. Becauſe in truth they know not the difference between <hi>Epiſcopal, Presbyterian, Independent,</hi> &amp;c. underſtand not what thoſe cramp words ſignifie; Nor indeed ſome of you their Teachers. I have heard ſome of your Brethren (and none of the moſt inconſiderable neither) affirm themſelves <hi>Presby<g ref="char:EOLhyphen"/>terians,</hi> who upon examination and diſcourſe proved themſelves <hi>In<g ref="char:EOLhyphen"/>dependents.</hi> And the truth is, as the caſe ſtands with you, you are moſt of you <hi>Independents</hi> as to practice. And thoſe very Men of the Mini<g ref="char:EOLhyphen"/>ſtry, who were wont to decry that Faction both in the Pulpit, and through the wider mouth of the Preſs, now herd with them, whom they heretofore judged to ſtand at a greater diſtance from them, as to the power and placing of the Keys, the adminiſtration of, and admiſ<g ref="char:EOLhyphen"/>ſion to the Sacraments, than the Church of <hi>England.</hi> And therefore
+<pb n="5" facs="tcp:93567:3"/>whereas all diſſenting <hi>Proteſtants</hi> are hudled together under the name of <hi>Presbyterians,</hi> I think it were more proper under the title of <hi>Inde<g ref="char:EOLhyphen"/>pendents,</hi> who are certainly the greater number.</item>
+                  <item>3. If alſo it were well weighed, that what the Magiſtrate requires, in order to your admiſſion into the eſtabliſhed Church, cannot be made by the Word of God ſo apparently ſinful, as it is apparent by that Word, that Obedience to Magniſtrates is a Duty. I need not cite the many plain Texts that require the latter: I wiſh you (my Brethren) would publiſh the Text as plain for the former. If you cannot, as I think (if I am not miſtaken in my Bible) you cannot, the meaneſt <hi>Logician</hi> will tell you, you leave a certian Duty for an uncertain; and run upon, and perſiſt in a known Sin, to avoid that which is only doubted, and diſputed to be ſo, which men of your great Reaſon and tender Conſcience (one would think) ſhould not be guilty of.</item>
+                  <item>4. Nor is it unworthy your thoughts, who are of the Miniſtry, how far you have owned the King's Supremacy, by accepting the Indulgence his Majeſty was pleaſed once to give you by his Royal Proclamation. When his late Majeſty of pious memory <hi>K. Charles</hi> the firſt, required your Conformity, you obeyed the Parliment againſt him, and fought many years againſt the King's Supremacy, by the Ordinances of Par<g ref="char:EOLhyphen"/>liament. And now when his preſent Majeſty granted you an Indul<g ref="char:EOLhyphen"/>gence, without the Parliament, or conſent of the Law made by King, Lords and Commons, then you owned his Supremacy: which is as much as to ſay, the King hath a Power for you, but none againſt you. Or when he yeilds what you deſire, 'tis lawful to obey him; but if he denies, you will diſown him, and deny his Authority. And I am induced to believe there is no diſſenting Party, but would own his Majeſty's Supremacy in eſtabliſhing them. If his Majeſty would ſet up the <hi>Presbyterian Government,</hi> they would applaud it. If the <hi>Indepen<g ref="char:EOLhyphen"/>dent,</hi> they would juſtifie it; whatever the eſtabliſhed Law of the Land is, or ſaith to the contrary. And why is not his Majeſties Command (together with the Law) to conform to the Church as now eſtabliſhed, as binding as any, and as reaſonable to be obeyed and conformed to, as if his Majeſty ſhould enjoyn either of the former?
+<p>'Twill be an hard queſtion for you to anſwer, whether the King with the Law, or the King without the Law, is to be obeyed? And yet I think, decide it which way you will, the deciſion of it would end in your condemnation. I have not forgot how frequently and violenty that text, <hi>Rom.</hi> 13.1, 2, 3. <hi>[he that reſiſteth; ſhall receive to himſelf Damnation]</hi> was uſed to be urged and preſſed in the late time by you:
+<pb n="6" facs="tcp:93567:4"/>but now, with the Ceremonial Law, you have aboliſhed it; as if the Holy Ghoſt had deſigned it in favour of thoſe Governors, and that Government which you would have ſet up only, and no other. I pray God ſome of you don't find at laſt, that, and ſuch like Divine Precepts, as forceable now, as ever you once thought them to be.—</p>
+                  </item>
+                  <item>5. Beſides, 'Tis no light matter, that you ſuffer thoſe many amongſt you to go on quietly in the breach of their late Oaths, Sacraments, and Subſcriptions, which they took, and laid themſelves under, in a ſeeming obedience to the Law: which they gave all the Teſtimony and aſſurance to our Governors, that Tongues and Hands, Words and Letters could expreſs, that they were and would be conformable to the Government as then eſtabliſhed, both in Church and State. Tho 'tis to be feared many of you took the Teſt, only to ſave your Bacon. For ſome did not ſtick to diſgorge themſelves of it ſoon after in your private Aſſemblies, by a ſeeming Repentance, and feigned Confeſſion, how ſorry they were for what they had done; to the juſt provoking of his Majeſty, contempt of the Law, diſhonour of you who accepted thoſe Retractations, and reproach of the Proteſtant Religion, which you would have the ſole credit of being defenders of. Theſe things I know (my Brethren) to my grief, and could find you out ſome of theſe Penitents, if need were. And pray tell me, what any Papiſt or Jeſuit could do more, to ſave their Stake, adn elude lawful Authori<g ref="char:EOLhyphen"/>ty? Well, a day will come, when theſe Oaths will make them ſick in good earneſt; I mean not the taking of them, but their making no Conſcience to be true to them. Friends, 'tis not time aday to dally and play the fool with God, and our own Conſciences, but to lay theſe things to heart, and to reſolve in your mind, whether theſe things conſidered, it will not make moſt for the Glory of God, the pleaſing of his Vicegerent on Earth, the peace of your own Conſciences, the preſervation of our Religion, and diſhearting of our common Ene<g ref="char:EOLhyphen"/>my, to unite and join your ſelves ſpeedily and heartily to the eſta<g ref="char:EOLhyphen"/>bliſhed Church. The Enemy then could with no colour feign and fix Plots upon you, of ſeeking to ſubvert the Government, which your Schiſm and Diſſenſion gives them advantage to do. And if ever Popery creep into and get poſſeſſion of the Houſe, 'tis Diviſion opens the Door to it. And 'tis not all your talking finely to the People againſt Popery can ever overthrow this Vanity. For the Eternal Truth hath ſpoken it, <hi>that an Houſe divided cannot ſtand.</hi> And tho 'tis com<g ref="char:EOLhyphen"/>monly talked among you, that the Church of <hi>England</hi> is coming a<g ref="char:EOLhyphen"/>pace to Popery; yet a ſerious conſideration and unprejudiced Reaſon
+<pb n="7" facs="tcp:93567:4"/>will inform you better: or if that cannot, time will, that ſhe is the chief Bar to keep it out. And that the beſt courſe you can take to this end, is to ſtrengthen her hands, by joyning with her. Both together may do it, without her (what ever is pretended) you never can.</item>
+                  <item>6. And to draw towards a Cloſe, let me intreat you to conſider a few Apothegms or Maxims (or call them what you will) which I ſuppoſe may be the more taking with you, becauſe they were drawn up and publiſhed by a diſſenting Brother in the late Times, and looked on as very found then, &amp; I hope they be not now grown rotten with Age. They are againſt allowing any Toleration or Liberty of Con<g ref="char:EOLhyphen"/>ſcience, in thoſe Times had been infallible, and there could be no Conſcience at all in thoſe that differed from them. Hear what he ſaith, and pardon me that I conceal his Name, till I have further oc<g ref="char:EOLhyphen"/>caſion. He lies cloſe in the little hole over the Oven, is very loth to be expoſed this cold Weather, and I have a little the more reſpect to him, becauſe of his age.
+<list>
+                        <item>1. Firſt (ſaith he) <hi>Auguſtin's</hi> Tongue had not owed his Mouth one penny rent, though it had never ſpoke word more in it than this, <hi>Nullum malum pejus libertate errandi.</hi>
+                        </item>
+                        <item>2. He that is willing to tolerate any unſound Opinion, that his own may be tolerated though never ſo ſound, will for a need hang God's Bible at the Devil's girdle.</item>
+                        <item>3. It is better to live in a Church united, though a little corrupt, than in a Church, whereof ſome part is incorrupt, and all the reſt divided.</item>
+                        <item>4. Liberty of Conſcience can be nothing elſe, but a freedom from Sin and Error, and Liberty of Error nothing but a poyſon for Con<g ref="char:EOLhyphen"/>ſcience</item>
+                        <item>5. <hi>Religio docenda eſt, non coercenda,</hi> is a pritty peice of <hi>album Latinum</hi> for ſome kind of throats that are willingly ſore. That's a choker! With<g ref="char:EOLhyphen"/>out doubt the Man thought the wheel would never turn; That they who are then atop, would never more be underneath.</item>
+                        <item>6. Toleration turns the Church, Chriſt's Academy, into the De<g ref="char:EOLhyphen"/>vil's Univerſity, where any Man may commence Sciſmatick <hi>per ſaltum;</hi> and he that is <hi>Filius Diabolicus,</hi> or <hi>ſimpliciter peſſimus,</hi> may have his Grace to go to Hell <hi>cum privilegio,</hi> and carry as many after him as he can. This is as biting as new-made Muſtard: but who can help it? 'tis the ſauce of his own providing, to make your meat go down
+<pb n="8" facs="tcp:93567:5" rendition="simple:additions"/>the better; and if it reliſhed well then, why is it diſguſted now?</item>
+                        <item>7. They that think they have found a way to Heaven, who cannot find the way to Church, have found a way thither that was never of God's making. Good again.</item>
+                        <item>8. Tis dangerous ſayling by their Compaſſe, who pretend to have diſcovered the North-Weſt Paſſage to Heaven. True as the former. The good old man hath many more of the ſame ſtamp, but here are enough put together to amount to a full conviction, that your Princi<g ref="char:EOLhyphen"/>ples and Practices then were different from what they are now. Sepa<g ref="char:EOLhyphen"/>ration, or not joyning with you, was a ſin, and not to be allowed upon any pretence whatſoever. But now any pretence muſt juſtifie Non-com<g ref="char:EOLhyphen"/>munion with the preſent Eſtabliſhed Church. He that talked againſt you and your Church-government then, was a prophane fellow, and a malignant: but he that babbles moſt againſt Eccleſiaſtical Government now, is hugg'd as a zealous and good Chriſtian. For ſhame, my Brethren, ſhew your ſelves Chriſtians, and yeild what you can, rather then ha<g ref="char:EOLhyphen"/>zard all. And account it your honour, as well as honeſty, at laſt to re<g ref="char:EOLhyphen"/>turn to your Duty. Walk by that golden Rule, the ſum of the Law and the Prophets, Do to all Men, as you would they ſhould do un<g ref="char:EOLhyphen"/>to you. And preſs Conformity upon your hearers now, as much as you uſed to do when you ruled in the Church. Tell them plainly there is never a Prayer in the public Liturgy, but they may ſafely joyn in it, for it is put up to the true God, in the name of Jeſus Chriſt, for things agreeable to his will. And deſire them for God's ſake, and for Religion ſake to conform as far as they may, without ſin. And lead them on to this by your own Example; And we will deſire no more, and give you our hearty thanks for doing this, though but your duty: But if you ſtill remain inconſtant to your Vowes and Promiſes, and wilfull in your ways of Separation, and by your Example and preach<g ref="char:EOLhyphen"/>ing encourage others to follow after you, I muſt for once tell you, you do amiſs, and 'tis Iniquity, even the Solemn Meeting. <hi>Iſa.</hi> 1.13.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
